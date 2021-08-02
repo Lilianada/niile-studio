@@ -121,6 +121,7 @@
         border-radius: 20px;
         background-color: var(--color-text-1);
         color: var(--color-text-3);
+        cursor: pointer;
     }
 
     .hero-button:hover {
@@ -189,6 +190,7 @@
         color: var(--color-text-1);
         border: 1px solid black;
         border-radius: 20px;
+        cursor: pointer;
     }
 
     .text-button:hover {
@@ -247,6 +249,7 @@
         color: var(--color-text-3);
         border: none;
         border-radius: 20px;
+        cursor: pointer;
     }
 
     .work-button:hover {
