@@ -154,7 +154,9 @@
     .img-col{
         width: 45%;
         height: 400px;
-        background-color: var(--color-text-2);
+        background: url(/images/Creative-Space.png);
+        background-position: center;
+        background-size: cover;
     }
 
     .text-col{
@@ -221,14 +223,19 @@
         height: 400px;
         margin-bottom: 1em;
 
-        background-color: var(--color-text-2);
+        background: url(/images/christopher-unsplash.jpg);
+        background-size: cover;
+        background-position: center;
     }
 
     .flex-b{
         width: 340px;
         height: 400px;
 
-        background-color: var(--color-text-2);
+        background: url(/images/home-soona1.png);
+        background-position: center;
+        background-size: cover;
+
     }
 
     .work-button{
@@ -277,7 +284,9 @@
 
         /* margin-bottom: 1em; */
         border-radius: 50%;
-        background-color: var(--color-text-1);
+        background: url(/images/unsplash-image.jpg);
+        background-size: cover;
+        background-position: center;
         
     }
 
@@ -328,7 +337,9 @@
         width: 250px;
         height: 150px;
 
-        background-color: var(--color-text-2);
+        background: url(/images/dom-aguiar-dpRdRWaaAik-unsplash.jpg);
+        background-size: cover;
+        background-position: center;
     }
 
     /*--------CALL TO ACTION------*/
