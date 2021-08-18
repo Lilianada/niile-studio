@@ -155,7 +155,7 @@
     .img-col{
         width: 45%;
         height: 400px;
-        background: url(/images/Creative-Space.png);
+        background: url(niile-studio/images/Creative-Space.png);
         background-position: center;
         background-size: cover;
     }
@@ -225,7 +225,7 @@
         height: 400px;
         margin-bottom: 1em;
 
-        background: url(/images/christopher-unsplash.jpg);
+        background: url(niile-studio/images/christopher-unsplash.jpg);
         background-size: cover;
         background-position: center;
     }
@@ -234,7 +234,7 @@
         width: 340px;
         height: 400px;
 
-        background: url(/images/home-soona1.png);
+        background: url(niile-studio/images/home-soona1.png);
         background-position: center;
         background-size: cover;
 
@@ -287,7 +287,7 @@
 
         /* margin-bottom: 1em; */
         border-radius: 50%;
-        background: url(/images/unsplash-image.jpg);
+        background: url(niile-studio/images/unsplash-image.jpg);
         background-size: cover;
         background-position: center;
         
@@ -340,7 +340,7 @@
         width: 250px;
         height: 150px;
 
-        background: url(/images/dom-aguiar-dpRdRWaaAik-unsplash.jpg);
+        background: url(niile-studio/images/dom-aguiar-dpRdRWaaAik-unsplash.jpg);
         background-size: cover;
         background-position: center;
     }
